@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DataSourceManagerImpl" format="xml" hash="2915595506">
+    <data-source source="LOCAL" name="Rails depot: development" uuid="756b587f-eb15-4876-86ab-494b8ebde422">
+      <driver-ref>sqlite.xerial</driver-ref>
+      <jdbc-driver>org.sqlite.JDBC</jdbc-driver>
+      <jdbc-url>jdbc:sqlite:W:\YandexDisk\Sites\depot\db\development.sqlite3</jdbc-url>
+      <libraries />
+    </data-source>
+    <data-source source="LOCAL" name="Rails depot: test" uuid="85627014-1d6c-4c27-a462-f2968c2668f0">
+      <driver-ref>sqlite.xerial</driver-ref>
+      <jdbc-driver>org.sqlite.JDBC</jdbc-driver>
+      <jdbc-url>jdbc:sqlite:W:\YandexDisk\Sites\depot\db\test.sqlite3</jdbc-url>
+      <libraries />
+    </data-source>
+    <data-source source="LOCAL" name="Rails depot: production" uuid="f70fafa2-950a-4dcf-97ed-21fc5a1e08dc">
+      <driver-ref>postgresql</driver-ref>
+      <jdbc-driver>org.postgresql.Driver</jdbc-driver>
+      <jdbc-url>jdbc:postgresql://ec2-54-197-238-8.compute-1.amazonaws.com:5432/dcajljt7v95qld</jdbc-url>
+      <user-name>vuodhvbskfxwjt</user-name>
+      <user-password>df9fdffbdfdadfc9dfcfdfe4dfffdfc7dfe9dfe0dfdcdfeedf9cdffddf93df98dffedfe2dfcddfcddfe7dfdadf9ddfe6dfebdfe5</user-password>
+      <libraries />
+    </data-source>
+  </component>
+</project>
+
